@@ -2,7 +2,6 @@ from __future__ import print_function
 
 import json
 import requests
-import sqlite3
 import urllib.request
 import re
 import ssl
